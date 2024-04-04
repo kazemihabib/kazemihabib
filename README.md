@@ -21,6 +21,5 @@ Habib</a></h1>
 ---
 
 ### :fire: My Stats :
-
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=kazemihabib&theme=dark&show_icons=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazemihabib&theme=dark&hide_border=false" /> 
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=kazemihabib&theme=dark&show_icons=true&count_private=true" width="335"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazemihabib&theme=dark&hide_border=false" width="350" /> 
