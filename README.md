@@ -1,14 +1,22 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jmbnlua3Uzd2xuaWdqZTQ0d3ZpZ3R0bm43NWI3YmUwYzF4ZjVnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlUpyPkoccGWiw5odc/giphy.gif" width="300"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/kazemihabib/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/4146943/habib-kazemi">
+    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+</div>
+
+
 <h1 align="center">Hi 👋, I'm <a href="https://kazemihabib.github.io/" target="blank">
 Habib</a></h1>
 
 
-
-
-
-
-
-- 🔭 Currently I am Master’s student of AI at the University of Bologna
-- 📫 I can be found mostly via emails, or [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/kazemihabib/)
+- 🔭 I am currently pursuing my master’s degree in Artificial Intelligence at the University of Bologna
+- 📫 I can be found mostly via emails
 
 ---
 
